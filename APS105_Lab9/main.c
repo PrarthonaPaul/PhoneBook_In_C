@@ -5,8 +5,6 @@
 #include <ctype.h>
 #include <stdbool.h>
 
-// IF IT'S EASIER, YOU NEED NOT BE OVERLY GENERAL/FLEXIBLE
-// BUT CAN ASSUME THESE LIMITS
 #define MAXCONTACTS 30 /* max # of contacts */
 #define MAXPHONES 10 /* max # of phone numbers for each contact */
 #define PHONE_NUMBER_MAX_LENGTH 12
@@ -246,7 +244,6 @@ void PrintContact() {
  */
 
 void DeleteContact() {
-    // YOUR CODE HERE
     char placeholder[] = "0";
     bool contactMatch = false;
     int n = 0, sizeOfSimple = 0; 
@@ -383,9 +380,7 @@ int main()
             break;
          }
      
-   }
-      // PUT ANY POST_RUN CODE HERE
-    
+   }    
 
    return 0;
 }

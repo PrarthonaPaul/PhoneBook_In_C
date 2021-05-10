@@ -1,0 +1,9 @@
+-IC:\Users\prart\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include\c++
+-IC:\Users\prart\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include\c++\x86_64-w64-mingw32
+-IC:\Users\prart\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include\c++\backward
+-IC:\Users\prart\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include
+-IC:\Users\prart\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include-fixed
+-IC:\Users\prart\mingw64\x86_64-w64-mingw32\include
+-IE:\First year\APS105\APS105_Lab1\APS105_Lab9
+-target
+x86_64-pc-windows-gnu
